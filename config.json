@@ -1,0 +1,25 @@
+{
+    "Global":{
+        "Type":"Game/Simulator",
+        "Licene":"MIT.md",
+        "By": "Kozosvyst Stas",
+        "Description": "The life of a student",
+        "Version":"0.0.1b",
+        "results":true
+    },
+    
+    "Student":{
+        "name":"Alex",
+        "start_age": 12,
+        "academy":"Step",
+        "start_course": 1,
+        "group": "1A",
+        "start_balance":0
+    },
+    
+    ".sxscli":{
+        "project_id":"THE58LIE789OF24A98STUDENT0111",
+        "security":"copyright_protection",
+        "copyright":"Copyright (c) 2024 Kozosvyst Stas (StasX)"
+    }
+}
