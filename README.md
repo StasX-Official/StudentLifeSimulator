@@ -16,3 +16,9 @@ this code without indicating the copyright.
   - Github Project: https://github.com/StasX-Official/StudentLifeSimulator
 
 Copyright (c) 2024 Kozosvyst Stas (StasX)
+
+Support for this software has ended.
+
+SUPPORT: support@sxscli.com
+Powered By: SXSCLI
+<img width="512" height="512" alt="lg_f_git" src="https://github.com/user-attachments/assets/01afcc46-e2d1-41a5-ae0a-8b52ac1c64d6" />
