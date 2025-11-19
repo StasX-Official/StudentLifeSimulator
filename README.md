@@ -21,4 +21,5 @@ Support for this software has ended.
 
 SUPPORT: support@sxscli.com
 Powered By: SXSCLI
-<img width="512" height="512" alt="lg_f_git" src="https://github.com/user-attachments/assets/01afcc46-e2d1-41a5-ae0a-8b52ac1c64d6" />
+
+<img width="1000" height="400" alt="lg2" src="https://github.com/user-attachments/assets/a8b06b44-59f9-4b5e-950e-7ff1c91d6afb" />
